@@ -1,0 +1,27 @@
+{
+  "name": "sdf05-2025",
+  "version": "1.0.0",
+  "description": "Welcome to your **Tailwind Refactor Challenge!** This project is focused on applying Tailwind’s **utility-first approach** to design a fully responsive website footer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeSpace-Academy/SDF05-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeSpace-Academy/SDF05-2025/issues"
+  },
+  "homepage": "https://github.com/CodeSpace-Academy/SDF05-2025#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "tailwindcss": "^4.1.8"
+  }
+}
